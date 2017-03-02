@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HistoryActivity">
+    <item
+        android:id="@+id/action_sort_by_speed"
+        android:title="@string/strike_speed"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sort_by_reaction"
+        android:title="@string/reaction"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sort_by_acceleration"
+        android:title="@string/acceleration"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sort_by_date"
+        android:title="@string/date"
+        app:showAsAction="never"/>
+</menu>

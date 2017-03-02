@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/choose_hand"
+        android:entryValues="@array/choose_hand"
+        android:key="hand_pref"
+        android:defaultValue="@string/right_hand"
+        android:title="Выберите руку" />
+
+    <CheckBoxPreference
+        android:key="glove_pref"
+        android:summary="Есть/Нет"
+        android:defaultValue="false"
+        android:title="Есть ли перчатка" />
+
+    <CheckBoxPreference
+        android:key="step_pref"
+        android:summary="На шаге/На месте"
+        android:defaultValue="false"
+        android:title="Есть ли шаг" />
+
+    <ListPreference
+        android:entries="@array/choose_strike_type"
+        android:entryValues="@array/choose_strike_type"
+        android:key="strike_type_pref"
+        android:defaultValue="@string/uppercut"
+        android:title="Выберите тип удара" />
+
+</PreferenceScreen>

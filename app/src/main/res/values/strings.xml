@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StrikeSpeed</string>
+    <string name="show_licence">Лицензия</string>
+    <string name="strike_force">Сила удара</string>
+    <string name="no_label"></string>
+    <string name="history">ИСТОРИЯ</string>
+    <string name="ok">OK</string>
+    <string name="acceleration">Ускорение :</string>
+    <string name="strike_speed">Скорость удара :</string>
+    <string name="reaction">Скорость реакции :</string>
+    <string name="date">Дата</string>
+    <string name="license">Lorem ipsum dolor sit amet. Cupiditate non recusandae officia deserunt mollitia animi, id est laborum.
+        Dolor sit, aspernatur aut perferendis doloribus asperiores repellat. voluptatem sequi nesciunt neque. Vitae dicta sunt,
+        explicabo similique sunt. Aperiam eaque ipsa, quae ab illo inventore veritatis et harum quidem rerum.
+        Suscipit laboriosam, nisi ut perspiciatis. Autem vel eum fugiat, quo voluptas assumenda.
+        Possimus, omnis iste natus error sit voluptatem accusantium doloremque laudantium.</string>
+    <string name="hand">Рука :</string>
+    <string name="glove">Перчатка :</string>
+    <string name="step">Шаг :</string>
+    <string name="strike_type">Тип удара :</string>
+    <string name="right_hand">правая</string>
+    <string name="left_hand">левая</string>
+    <string name="has">есть</string>
+    <string name="no">нет</string>
+    <string name="has_step">на шаге</string>
+    <string name="no_step">на месте</string>
+    <string name="uppercut">апперкот</string>
+    <string name="sidestroke">боковой</string>
+    <string name="direct_hit">прямой</string>
+    <string name="settings">настройки</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

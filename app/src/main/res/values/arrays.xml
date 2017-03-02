@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choose_hand">
+        <item>@string/right_hand</item>
+        <item>@string/left_hand</item>
+    </string-array>
+
+    <string-array name="choose_strike_type">
+        <item>@string/uppercut</item>
+        <item>@string/direct_hit</item>
+        <item>@string/sidestroke</item>
+    </string-array>
+</resources>
